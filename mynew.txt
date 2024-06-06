@@ -8,3 +8,6 @@ git branch -M main
 git push -u origin main
 git restore file name (which you want to take from staging area to working area)
 git remove rm -f* (to delete all the files)
+
+2nd way of commit
+git commit (for very long message it will open VI editor mode so you cam type your message there and save)
