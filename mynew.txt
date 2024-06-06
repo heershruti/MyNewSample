@@ -1,1 +1,8 @@
-hello world
+git init
+git add filename
+git commit -m "my first commit"
+git global --config user.mail "heershruti21@gmail.com
+git global --config user.name "shruti"
+git add remote origin "gitrepostryurl"
+git branch -M main
+git push -u origin main
