@@ -6,3 +6,4 @@ git config --global user.name "shruti"
 git add remote origin "gitrepostryurl"
 git branch -M main
 git push -u origin main
+git restore file name (which you want to take from staging area to working area)
